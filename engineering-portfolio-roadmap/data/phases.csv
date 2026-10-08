@@ -1,0 +1,69 @@
+phase,title,status
+1,Programming Fundamentals,Not Started
+2,Data Structures & Algorithms,Not Started
+3,Computer Architecture & Low-Level Programming,Not Started
+4,Operating Systems,Not Started
+5,Compilers & Programming Languages,Not Started
+6,Application Development,Not Started
+7,Web & Full-Stack Engineering,Not Started
+8,Backend Engineering,Not Started
+9,Software Testing & Quality,Not Started
+10,Software Architecture,Not Started
+11,Database Engineering,Not Started
+12,Distributed Systems,Not Started
+13,High-Performance Computing,Not Started
+14,Networking Fundamentals,Not Started
+15,Advanced Networking,Not Started
+16,Linux & Enterprise Infrastructure,Not Started
+17,DevOps & CI/CD,Not Started
+18,Infrastructure as Code,Not Started
+19,Kubernetes & Container Orchestration,Not Started
+20,AWS,Not Started
+21,Microsoft Azure,Not Started
+22,Google Cloud,Not Started
+23,Multi-Cloud Architecture,Not Started
+24,Site Reliability Engineering,Not Started
+25,Cybersecurity Foundations,Not Started
+26,Application Security,Not Started
+27,DevSecOps & Supply Chain Security,Not Started
+28,Defensive Security & SOC,Not Started
+29,Detection Engineering & Threat Hunting,Not Started
+30,Digital Forensics & Incident Response,Not Started
+31,Malware Analysis & Reverse Engineering,Not Started
+32,Offensive Security & Penetration Testing,Not Started
+33,"Identity, Access Management & Zero Trust",Not Started
+34,Cloud Security,Not Started
+35,Cryptography & Privacy Engineering,Not Started
+36,Advanced SQL & Analytics Engineering,Not Started
+37,Data Engineering,Not Started
+38,Advanced Data Platforms,Not Started
+39,Business Intelligence & Visualization,Not Started
+40,Statistics & Experimental Analysis,Not Started
+41,Applied Data Science,Not Started
+42,"Time Series, Optimization & Operations Research",Not Started
+43,Classical Machine Learning,Not Started
+44,Deep Learning,Not Started
+45,Natural Language Processing,Not Started
+46,Generative AI & LLM Engineering,Not Started
+47,MLOps & Production AI,Not Started
+48,AI Security,Not Started
+49,Reinforcement Learning & Intelligent Agents,Not Started
+50,Systems Engineering Fundamentals,Not Started
+51,Digital Twins & Simulation,Not Started
+52,Embedded Systems & IoT,Not Started
+53,"Electronics, FPGA & Computer Hardware",Not Started
+54,Industrial Automation & OT Security,Not Started
+55,Automotive & Vehicle Systems,Not Started
+56,Robotics,Not Started
+57,Computer Vision & Sensor Fusion,Not Started
+58,Computer Graphics & Simulation Engines,Not Started
+59,Secure Communications & Mission Networks,Not Started
+60,Cyber Mission Defense,Not Started
+61,Mission Systems & Systems-of-Systems Engineering,Not Started
+62,"Space, Satellite & Aerospace Software",Not Started
+63,Blockchain & Distributed Ledger,Not Started
+64,"Privacy, Governance & Compliance",Not Started
+65,Technical Leadership & Engineering Management,Not Started
+66,Open-Source Contributions,Not Started
+67,Engineering Architecture Portfolio,Not Started
+68,Multidisciplinary Capstones,Not Started

@@ -1,0 +1,13 @@
+id,phase,project,disciplines,status,repository_url,completed_on
+C01,68,Secure Cloud-Native SaaS Platform,"Software, cloud, databases, DevSecOps",Not Started,,
+C02,68,Enterprise SOC & Threat Detection Platform,"Cybersecurity, networking, data engineering",Not Started,,
+C03,68,AI-Powered Cyber Defense Platform,"Cybersecurity, ML, AI, MLOps",Not Started,,
+C04,68,Distributed Database & Storage Platform,"Systems, databases, distributed computing",Not Started,,
+C05,68,Enterprise Data Lakehouse & Analytics Platform,"Data engineering, data science, BI",Not Started,,
+C06,68,Autonomous Robotics & Digital Twin Platform,"Robotics, AI, embedded systems, systems engineering",Not Started,,
+C07,68,Secure Industrial IoT Platform,"Embedded, OT security, cloud, telemetry",Not Started,,
+C08,68,Multi-Cloud Enterprise Infrastructure,"AWS, Azure, GCP, Kubernetes, SRE",Not Started,,
+C09,68,Secure Connected Vehicle Platform,"Automotive, embedded, networking, cybersecurity",Not Started,,
+C10,68,Simulated Satellite Mission Operations Platform,"Aerospace, systems engineering, AI, telemetry",Not Started,,
+C11,68,Complete Enterprise Zero-Trust Environment,"Identity, networking, cloud security, governance",Not Started,,
+C12,68,Integrated Mission Cyber Resilience Platform,"Defensive cyber, mission systems, AI, distributed systems",Not Started,,
