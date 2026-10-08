@@ -36,3 +36,27 @@ Track one project as a separate repository when it merits one, and link it in `r
 ## Safety
 
 Keep credentials and private data out of Git. Offensive-security projects should be performed only in authorized environments.
+
+## Certification roadmap & tracker
+
+- [Complete 22-phase certification roadmap](docs/CERTIFICATIONS.md)
+- [Certification progress dashboard](docs/CERTIFICATION-PROGRESS.md)
+- `data/certifications.csv` — editable tracker (statuses, dates, fees, credential links, study resources, related projects).
+- `data/certification_phases.csv` — phase goals.
+- `docs/SOURCE-CERTIFICATIONS.md` — original uploaded certification list, preserved for reference.
+
+<!-- CERT_PROGRESS_START -->
+125 certifications tracked · 0 earned · 0 studying · 0 scheduled
+<!-- CERT_PROGRESS_END -->
+
+To update certification progress:
+
+```powershell
+python scripts/next_certification.py
+python scripts/update_certifications.py
+python scripts/validate_certifications.py
+```
+
+**Status choices:** `Not Started`, `Planned`, `Studying`, `Exam Scheduled`, `Passed - Pending Credential`, `Earned`, `On Hold`, `Expired`, `Retired`. Dates use `YYYY-MM-DD`; monetary amounts are numbers in your chosen currency (use USD consistently). Mark `Earned` only when the credential is actually awarded, not merely when the exam is passed.
+
+> The certification list is reproduced from your supplied roadmap. Exam availability, names, prerequisites, credential expiry, and certification requirements may change. Verify details with each issuer before booking.

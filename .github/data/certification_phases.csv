@@ -1,0 +1,23 @@
+phase,title,goal
+1,Fundamental IT Foundation,"Establish networking, operating system, hardware, Linux, and basic cybersecurity fundamentals."
+2,Networking & Systems Engineering,"Move from basic IT knowledge into professional networking, Linux administration, automation, and infrastructure engineering."
+3,Entry Cybersecurity,Develop both defensive/SOC knowledge and introductory offensive-security capability.
+4,"Programming, Software & Secure Development","Combine software engineering with secure software development, source control, CI/CD, and application security."
+5,Initial Cloud Engineering,Become competent in all three major cloud platforms while developing significantly deeper AWS knowledge.
+6,"Containers, Kubernetes & Infrastructure as Code","Become capable of developing, deploying, administering, automating, and securing modern cloud-native infrastructure."
+7,DevOps & DevSecOps,"Develop serious CI/CD, automation, SRE, infrastructure-as-code, and DevSecOps capability."
+8,Offensive Security Foundation,Transition from theoretical security knowledge into hands-on exploitation and penetration testing.
+9,Advanced Offensive Security,"Reach advanced/expert competency in red teaming, web exploitation, defense evasion, Active Directory, and exploit development."
+10,Defensive Security / Blue Team,Become highly competent on the defensive side rather than becoming exclusively a red-team specialist.
+11,Digital Forensics & Malware,"Add incident investigation, host/network forensics, malware analysis, and reverse engineering."
+12,Advanced Penetration Testing Through GIAC,Supplement OffSec's practical offensive-security path with SANS/GIAC's advanced offensive-security curriculum.
+13,Cloud Security,"Combine your cybersecurity, software, Kubernetes, DevOps, and cloud knowledge into cloud-security engineering."
+14,Advanced Cloud Architecture,Progress from cloud engineer/security engineer into designing complex enterprise-scale cloud environments.
+15,Advanced Network Security,Reach expert-level networking and network-security engineering capability.
+16,Data Engineering & Databases,"Add production-scale database, data pipeline, distributed data, and cloud data engineering competency."
+17,AI & Machine Learning,"Add AI engineering, ML infrastructure, LLM development, and AI-security expertise."
+18,"Governance, Risk & Compliance","Understand the legal, compliance, audit, privacy, governance, and risk side of cybersecurity."
+19,Senior Cybersecurity,Validate that you can operate beyond an individual technology and understand enterprise cybersecurity as an entire discipline.
+20,Security Engineering & Architecture,Transition from implementing security systems to designing entire secure enterprises.
+21,Technical Leadership & Management,"Add engineering leadership, program management, Agile, project management, and cybersecurity-management capability."
+22,Specialized / Optional Mastery,
